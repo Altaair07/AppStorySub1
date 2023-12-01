@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AppStorySub2</string>
+    <string name="hint_password">Password</string>
+    <string name="password_error">Password kurang dari 8 karakter</string>
+    <string name="login">Login</string>
+    <string name="login_desc">Masuk untuk menggunakan aplikasi</string>
+    <string name="no_account">Belum punya akun?</string>
+    <string name="register">Register</string>
+    <string name="register_desc">Daftar akun sekarang juga</string>
+    <string name="has_account">Sudah punya akun?</string>
+    <string name="name">Nama</string>
+    <string name="logout">Logout</string>
+    <string name="add_new_story">Add new story</string>
+    <string name="upload">Upload</string>
+    <string name="add_desc">Masukkan deskripsi</string>
+    <string name="email_error">Email tidak valid</string>
+    <string name="hint_email">Email</string>
+    <string name="title_activity_maps_story">MapsStoryActivity</string>
+    <string name="maps_story">Maps Story</string>
+    <string name="retry">Coba lagi</string>
+    <string name="empty">Data Kosong</string>
+    <string name="gps_add">Sertakan Lokasi GPS</string>
+    <string name="location_null">Lokasi tidak ditemukan</string>
+</resources>
